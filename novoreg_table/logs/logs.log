@@ -1,0 +1,25 @@
+2024-04-23 23:06:16,769 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-23 23:06:16,769 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-23 23:06:16,769 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-23 23:06:16,769 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-23 23:06:17,097 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
+2024-04-23 23:06:17,097 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
+2024-04-23 23:06:35,976 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-23 23:06:35,976 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-23 23:06:36,393 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
+2024-04-23 23:17:48,096 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-23 23:17:48,096 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-23 23:17:48,394 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
+2024-04-24 00:17:33,086 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-24 00:17:33,087 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-24 00:17:33,490 :: novoreg_table :: affise_get_new_partners:64 :: INFO :: Успешно добавили партнера 33870 в базу
+2024-04-24 00:17:35,428 :: novoreg_table :: hello_sendler_acc_1:22 :: INFO :: Аккаунт 1 :: Партнер 33870 :: Успешно отправили привет партнеру. Спим 10 сек.
+2024-04-24 00:17:36,324 :: novoreg_table :: add_to_contact_acc_1:45 :: INFO :: Аккаунт 1: Успешно добавили в контакты партнера 33870.
+2024-04-24 00:18:23,508 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-24 00:18:23,508 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-24 00:19:24,601 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-24 00:19:24,602 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-24 00:19:27,709 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
+2024-04-24 00:29:23,927 :: novoreg_table :: affise_get_new_partners:20 :: INFO :: Запросили новорегов в аффайз
+2024-04-24 00:29:23,928 :: novoreg_table :: affise_get_new_partners:22 :: INFO :: Успешно получили новорегов в аффайз
+2024-04-24 00:29:24,407 :: novoreg_table :: <module>:14 :: INFO :: Спим 5  минут  и повторяем попытку
